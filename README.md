@@ -1,5 +1,6 @@
 # DevOps-Aula-2
 
 Tom Cruise
-Robert Downey Jr.
+Will Smith
 Johnny Depp
+Angelina Jolie
